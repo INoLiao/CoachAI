@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Coach AI
 ---
 
 # TrackNet - Deep Learning Network for Precise Ball Trajectory Tracking in Sports Applications
