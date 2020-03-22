@@ -4,7 +4,7 @@ title: Coach AI
 ---
 
 # TrackNet: A Deep Learning Network for Tracking High-speed and Tiny Objects in Sport Applications
-#### <a href="https://inoliao.github.io/portfolio/" target="_blank">I-No Liao</a>, <a href="https://people.cs.nctu.edu.tw/~yi/" target="_blank">Tsì-Uí İk</a>, <a href="https://sites.google.com/site/wcpeng/" target="_blank">Wen-Chih Peng</a>
+#### <a href="https://inoliao.info" target="_blank">I-No Liao</a>, <a href="https://people.cs.nctu.edu.tw/~yi/" target="_blank">Tsì-Uí İk</a>, <a href="https://sites.google.com/site/wcpeng/" target="_blank">Wen-Chih Peng</a>
 
 ## Abstract
 <div align="justify">
